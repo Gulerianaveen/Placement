@@ -35,6 +35,3 @@ public class ArrayRotation{
         System.out.println(Arrays.toString(nums2)); 
     }
 }
- ArrayRotation {
-    
-}
