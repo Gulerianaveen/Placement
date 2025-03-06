@@ -18,7 +18,7 @@ class selection_sort
         }
 
         for(int i =0;i<len;i++){
-            System.out.print(arr[i]+' ');
+            System.out.print    (arr[i]+' ');
         }
     }
 }
