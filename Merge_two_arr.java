@@ -18,7 +18,7 @@ public class Merge_two_arr {
 
         Arrays.sort(arr3);
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) {        
         
         int arr1[]={2,5,6,8,89,};
         int arr2[]={4,7,99,345};
